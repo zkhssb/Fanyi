@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanyi", "Fanyi.csproj", "{8B33DAA9-CFF5-4AD5-9835-74CCAECED683}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanyi", "Fanyi\Fanyi.csproj", "{8B33DAA9-CFF5-4AD5-9835-74CCAECED683}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanyi.Baidu", "Fanyi.Baidu\Fanyi.Baidu.csproj", "{3739F66F-4BC6-4A70-866B-969C15272243}"
 EndProject
